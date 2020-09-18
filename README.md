@@ -30,7 +30,7 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/language/dart.svg" alt="Dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="Dart" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
@@ -38,8 +38,8 @@
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="NodeJS" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/language/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/language/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
   
 
 ---
