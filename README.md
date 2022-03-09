@@ -14,7 +14,7 @@
 
 <br>
 
-<details>
+<details open>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
@@ -52,7 +52,7 @@
 - Learning to develop Mobile-first web-apps.
 - Learning React with Redux.
 - Adding databases to my skill set.
-- Following path to become MERN stack developer
+- Following path to become full stack developer
 
 ---
 
