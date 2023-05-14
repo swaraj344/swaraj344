@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Swaraj Kumar :wave:
+  Hey there, I'm Swaraj kumar :wave:, a software developer :computer: with a passion for building robust and user-friendly apps :sparkles:. I specialize in Flutter :iphone: and have mastered React :atom_symbol: and Tailwind :art:, among other technologies. Whether it's creating seamless UIs or optimizing app performance, I thrive on delivering top-notch solutions that exceed expectations
     <br><br>
-    I am a Mobile :iphone: and Web :globe_with_meridians: developer!
+    When I'm not coding, you can find me exploring the outdoors :deciduous_tree: or indulging in a good cup of coffee :coffee:. I'm also a big fan of memes and puns, so if you're looking for some laughs, I've got you covered :laughing:.
     <br><br>
-    I believe in a world where coffee :coffee: can solve any and all problems :grin:
+    My tech stack includes Dart :dart:, TypeScript :label:, and JavaScript :gear:, and I'm constantly learning and pushing myself to stay up-to-date with the latest trends in the industry. If you're looking to collaborate on a project or just want to chat about tech, feel free to reach out :hand:. Let's build something amazing together :rocket:!"
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
@@ -14,22 +14,22 @@
 
 <br>
 
-<details open>
+<details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=swaraj344&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
+  ![](https://github-readme-stats.vercel.app/api?username=swaraj344&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
-### - Languages and Tools...
+<!-- ### - Languages and Tools... -->
 
-<p align="center">
+<!-- <p align="center"> -->
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
+<!--   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="Dart" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -39,20 +39,20 @@
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="NodeJS" style="vertical-align:top; margin:4px">
   <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/swaraj344/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px"> -->
   
 
 ---
 
-</p>
+<!-- </p> -->
 
-### - I'm currently...
+<!-- ### - I'm currently...
 
 - Improving my Flutter skills.
 - Learning to develop Mobile-first web-apps.
 - Learning React with Redux.
 - Adding databases to my skill set.
-- Following path to become full stack developer
+- Following path to become full stack developer -->
 
 ---
 
